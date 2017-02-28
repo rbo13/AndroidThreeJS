@@ -21,6 +21,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
 
-        mXWalkView.load("https://tympanus.net/Tutorials/TheAviator/", null);
+        mXWalkView.load("http://toxicfork.github.io/react-three-renderer-example/#/webgl_geometry_shapes", null);
     }
 }
