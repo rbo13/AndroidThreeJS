@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/raw/launch_screen_api.js",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/raw/launch_screen_api.js"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/raw/xwalk_100_percent.pak",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/raw/xwalk_100_percent.pak"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/raw/empty.wav",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/raw/empty.wav"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/raw/icudtl.dat",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/raw/icudtl.dat"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/raw/xwalk.pak",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/raw/xwalk.pak"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/raw/wifidirect_api.js",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/raw/wifidirect_api.js"
+    }
+]

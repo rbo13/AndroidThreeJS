@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/color_picker_dialog_content.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/color_picker_dialog_content.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/autofill_keyboard_accessory_item.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/autofill_keyboard_accessory_item.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/date_time_suggestion.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/date_time_suggestion.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/two_field_date_picker.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/two_field_date_picker.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/multi_field_time_picker_dialog.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/multi_field_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/color_picker_advanced_component.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/color_picker_advanced_component.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/validation_message_bubble.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/validation_message_bubble.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/color_picker_dialog_title.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/color_picker_dialog_title.xml"
+    },
+    {
+        "merged": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/res/merged/androidTest/debug/layout-v17/dropdown_item.xml",
+        "source": "/Users/banana2/AndroidStudioProjects/ThreeJSWebView/CrosswalkWebview/build/intermediates/bundles/debug/res/layout-v17/dropdown_item.xml"
+    }
+]
